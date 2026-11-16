@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A traffic light controller. It requires a clock signal to change the state of the FSM and an input that is the RST_N. If the RST_N is depressed the traffic light sequential changes from green to yellow and yellow to red. 
 
 ## How to test
 
-Explain how to use your project
+Put a clock of 1Hz ate clock input
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Need 5 LEDs: 2 Green, 2 Red and 1 Yellow. Three LEDs are for the vehicle lights and two for the pedestrians lights.   
