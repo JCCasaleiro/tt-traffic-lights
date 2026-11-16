@@ -25,11 +25,11 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "Vehicle Green Light"
-  uo[1]: "Vehicle Yellow Light"
-  uo[2]: "Vehicle Red Light"
-  uo[3]: "Pedestrian Green Light"
-  uo[4]: "Pedestrian Red Light"
+  uo[0]: "VGL"
+  uo[1]: "VYL"
+  uo[2]: "VRL"
+  uo[3]: "PGL"
+  uo[4]: "PRL"
   uo[5]: ""
   uo[6]: ""
   uo[7]: ""
